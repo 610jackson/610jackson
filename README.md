@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Mastercard Cybersecurity virtual experience program on Forage - January 2024 </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Job Simulation - Security Awareness Team](https://github.com/610jackson/MasterCard-Lab.git)
 
 
 <h2>👨‍💻 Networking Projects:</h2>
