@@ -7,7 +7,7 @@
  
 
 - <b>Telstra Job Cyber Security Simulation program on Forage - January 2024 </b>
-  - [Job Simulation - Testra Cyber Security] (https://github.com/610jackson/Telstra-Project))
+  - [Job Simulation - Testra Cyber Security](https://github.com/610jackson/Telstra-Project)
 
 
 <h2>👨‍💻 Networking Projects:</h2>
