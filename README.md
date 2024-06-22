@@ -12,7 +12,7 @@
 
 <h2>👨‍💻 Networking Projects:</h2>
 
-
-
-
+<h2>👨‍💻 Linux Projects:</h2>
+- <b>Linux backup script using EC2 </b>
+  - [Job Simulation - Security Awareness Team}
 
