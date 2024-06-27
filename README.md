@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jackson! <br/><a href="https://github.com/610jackson">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/jackson-carson/">System Administrator</a>
+<h1>Hi, I'm Jackson! <br/><a href="https://github.com/610jackson">IT Analyst</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
