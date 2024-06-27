@@ -14,5 +14,5 @@
 
 <h2>👨‍💻 Linux Projects:</h2>
 - <b>Linux backup script using EC2 </b>
-  - [Job Simulation - Security Awareness Team}
+  - [Linux Backup Script Project](https://github.com/610jackson/LinuxBackupScript/blob/main/README.md)
 
