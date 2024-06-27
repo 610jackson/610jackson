@@ -13,8 +13,10 @@
 <h2>👨‍💻 Networking Projects:</h2>
 
 <h2>👨‍💻 Linux Projects:</h2>
-- <b>Linux backup script using EC2 </b>
-  - [Linux Backup Script Project](https://github.com/610jackson/LinuxBackupScript/blob/main/README.md)
+
+- <b>Linux Backup Script using EC2 </b>
+
+  -   [Linux Backup Script Project](https://github.com/610jackson/LinuxBackupScript/blob/main/README.md)
 
 
   
