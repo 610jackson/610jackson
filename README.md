@@ -13,7 +13,7 @@
 <h2>👨‍💻 Networking Projects:</h2>
 
 - <b>Basic Device Security </b>
-  - [Basic Device Security Lab from Jeremy's IT Lab](https://github.com/610jackson/Basic-Device-Security/blob/main.README.md)
+  - [Basic Device Security Lab from Jeremy's IT Lab](https://github.com/610jackson/Basic-Device-Security/edit/main/README.md)
 
 <h2>👨‍💻 Linux Projects:</h2>
 
