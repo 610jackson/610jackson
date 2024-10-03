@@ -21,3 +21,8 @@
 
 - <b>Linux Backup Script using EC2 </b>
   - [Linux Backup Script Project](https://github.com/610jackson/LinuxBackupScript/blob/main/README.md)
+ 
+<h2>👨‍💻 Azure Projects:</h2>
+
+- <b>Azure Bastion Project w/ Failed Backup Using SAS Token</b>
+  - [Azure Bastion Project w/ Failed Backup Using SAS Token](https://docs.google.com/document/d/1JpCmBd6PrXwwCpQUmRHiyPdPF_T_dx-69YMLKhQABAI/edit?usp=sharing)
