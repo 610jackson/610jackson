@@ -14,6 +14,8 @@
 
 - <b>Basic Device Security </b>
   - [Basic Device Security Lab from Jeremy's IT Lab](https://github.com/610jackson/Basic-Device-Security/blob/main/README.md)
+- <b>DNS Lab </b>
+  - [DNS Lab from Jeremy's IT Lab](https://docs.google.com/document/d/1nFoOV7xGBsgR2h2ZW7jJfiEHOeeFaFyNCLXqNHxw5YQ/edit?usp=sharing)
 
 <h2>👨‍💻 Linux Projects:</h2>
 
