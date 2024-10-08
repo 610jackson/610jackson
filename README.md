@@ -24,5 +24,8 @@
  
 <h2>👨‍💻 Azure Projects:</h2>
 
+- <b>Powershell Script Work Project</b>
+  - [Powershell Script Work Project](https://docs.google.com/document/d/1VOGXSihe9m61k0k3Odh6WIAxaKGA9vDTDnrBIE9i60A/edit?usp=sharing)
+  
 - <b>Azure Bastion Project w/ Failed Backup Using SAS Token</b>
   - [Azure Bastion Project w/ Failed Backup Using SAS Token](https://docs.google.com/document/d/1JpCmBd6PrXwwCpQUmRHiyPdPF_T_dx-69YMLKhQABAI/edit?usp=sharing)
