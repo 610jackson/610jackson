@@ -14,6 +14,7 @@
 
 - <b>Basic Device Security </b>
   - [Basic Device Security Lab from Jeremy's IT Lab](https://github.com/610jackson/Basic-Device-Security/blob/main/README.md)
+    
 - <b>DNS Lab </b>
   - [DNS Lab from Jeremy's IT Lab](https://docs.google.com/document/d/1nFoOV7xGBsgR2h2ZW7jJfiEHOeeFaFyNCLXqNHxw5YQ/edit?usp=sharing)
 
@@ -29,3 +30,6 @@
   
 - <b>Azure Bastion Project w/ Failed Backup Using SAS Token</b>
   - [Azure Bastion Project w/ Failed Backup Using SAS Token](https://docs.google.com/document/d/1JpCmBd6PrXwwCpQUmRHiyPdPF_T_dx-69YMLKhQABAI/edit?usp=sharing)
+
+- <b>Azure SQL Logging on VM </b>
+  - [Azure SQL Logging on VM](https://docs.google.com/document/d/1MXariu7f9YPHo8kFrm6Li6IvLe9IEznXpA0gr_Jwaqk/edit?usp=sharing)
