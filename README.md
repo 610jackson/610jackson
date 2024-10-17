@@ -26,7 +26,8 @@
 <h2>👨‍💻 Azure Projects:</h2>
 
 - <b>Personal Web Site Project</b>
-  - [Personal Web Site Project](https://docs.google.com/document/d/1j9MxkqKDd6yqA3piqKrfOEVuGmaNPiqCEG1TeaEyy1E/edit?usp=sharing)
+  - [Personal Web Site Project Write-Up](https://docs.google.com/document/d/1j9MxkqKDd6yqA3piqKrfOEVuGmaNPiqCEG1TeaEyy1E/edit?usp=sharing)
+  - [Web Site](https://jacksonresumestorage.z13.web.core.windows.net/?fbclid=IwY2xjawF9OJRleHRuA2FlbQIxMAABHSmAkgd5jsINmHUju8b1wlUAarBvZzt2_6vDTvWH7luCeIELrJAqJYWALA_aem_PXzmbIUVtZRV3_eZUJcTdQ)
   
 - <b>Powershell Script Work Project</b>
   - [Powershell Script Work Project](https://docs.google.com/document/d/1VOGXSihe9m61k0k3Odh6WIAxaKGA9vDTDnrBIE9i60A/edit?usp=sharing)
