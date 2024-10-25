@@ -3,6 +3,9 @@
 
 <h2>👨‍💻 Azure Projects:</h2>
 
+- <b>VNET Peering Lab</b>
+  - [VNET Peering Lab](https://docs.google.com/document/d/1HrCR2SEZ9hlYChwkWtvRo2Ocpm3Jrae7MOFmnsEbwpc/edit?usp=sharing)
+
 - <b>Personal Web Site Project</b>
   - [Personal Web Site Project Write-Up](https://docs.google.com/document/d/1j9MxkqKDd6yqA3piqKrfOEVuGmaNPiqCEG1TeaEyy1E/edit?usp=sharing)
   - [Web Site](https://jacksonresumestorage.z13.web.core.windows.net/?fbclid=IwY2xjawF9OJRleHRuA2FlbQIxMAABHSmAkgd5jsINmHUju8b1wlUAarBvZzt2_6vDTvWH7luCeIELrJAqJYWALA_aem_PXzmbIUVtZRV3_eZUJcTdQ)
