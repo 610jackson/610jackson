@@ -3,6 +3,9 @@
 
 <h2>👨‍💻 Azure Projects:</h2>
 
+- <b>Disabling Control Panel Access Through Group Policy</b>
+  - [Disabling Control Panel Access Through Group Policy](https://docs.google.com/document/d/1waE50q1bZTnGiYKFcMM00SiocVPORL0BY1tX7sorFQ8/edit?usp=sharing)
+    
 - <b>VNET Peering Lab</b>
   - [VNET Peering Lab](https://docs.google.com/document/d/1HrCR2SEZ9hlYChwkWtvRo2Ocpm3Jrae7MOFmnsEbwpc/edit?usp=sharing)
 
