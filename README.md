@@ -19,8 +19,8 @@
 - <b>Azure Bastion Project w/ Failed Backup Using SAS Token</b>
   - [Azure Bastion Project w/ Failed Backup Using SAS Token](https://docs.google.com/document/d/1JpCmBd6PrXwwCpQUmRHiyPdPF_T_dx-69YMLKhQABAI/edit?usp=sharing)
 
-- <b>Azure SQL Logging on VM </b>
-  - [Azure SQL Logging on VM](https://docs.google.com/document/d/1MXariu7f9YPHo8kFrm6Li6IvLe9IEznXpA0gr_Jwaqk/edit?usp=sharing)
+- <b>Azure KQL Logging on VM </b>
+  - [Azure KQL Logging on VM](https://docs.google.com/document/d/1MXariu7f9YPHo8kFrm6Li6IvLe9IEznXpA0gr_Jwaqk/edit?usp=sharing)
   
 
 
