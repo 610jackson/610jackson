@@ -46,6 +46,6 @@
   - [Job Simulation - Security Awareness Team](https://github.com/610jackson/MasterCard-Lab.git)
 
 - <b>Telstra Job Cyber Security Simulation program on Forage - January 2024 </b>
-  - [Job Simulation - Testra Cyber Security](https://github.com/610jackson/Telstra-Project)
+  - [Job Simulation - Testra Cyber Security](https://docs.google.com/document/d/1Db8I8q4ac-gWheJLAYe5jArSHkXayv8015jSN9r7zcc/edit?usp=sharing)
  
 
