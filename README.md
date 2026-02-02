@@ -3,6 +3,9 @@
 
 <h2>👨‍💻 Azure Projects:</h2>
 
+- <b>Resource Group Creation with Terraform</b>
+  - [Resource Group Creation with Terraform](https://docs.google.com/document/d/1NCjOG_XDPgook3cM7VmvzjDSreGiNOU5zIPseIKig-4/edit?usp=sharing)
+
 - <b>Disabling Control Panel Access Through Group Policy</b>
   - [Disabling Control Panel Access Through Group Policy](https://docs.google.com/document/d/1waE50q1bZTnGiYKFcMM00SiocVPORL0BY1tX7sorFQ8/edit?usp=sharing)
     
