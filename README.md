@@ -3,6 +3,9 @@
 
 <h2>👨‍💻 Azure Projects:</h2>
 
+- <b>Entra ID Role Delegation and Session Management</b>
+  - [Entra ID Role Delegation and Session Management](https://docs.google.com/document/d/1lTJCFc563kfo5qLq_yAQasMwFrYP1Ps2xeTTWoCm0ZE/edit?usp=sharing)
+
 - <b>Resource Group Creation with Terraform</b>
   - [Resource Group Creation with Terraform](https://docs.google.com/document/d/1NCjOG_XDPgook3cM7VmvzjDSreGiNOU5zIPseIKig-4/edit?usp=sharing)
 
