@@ -3,6 +3,9 @@
 
 <h2>👨‍💻 Azure Projects:</h2>
 
+- <b>Private Endpoint Lab</b>
+  - [Private Endpoint Lab](https://docs.google.com/document/d/18MCD1QQO9ZOoNqN2nIMwOp3bho_nYLohMCIGAIo-W2M/edit?usp=sharing)
+
 - <b>Entra ID Role Delegation and Session Management</b>
   - [Entra ID Role Delegation and Session Management](https://docs.google.com/document/d/1lTJCFc563kfo5qLq_yAQasMwFrYP1Ps2xeTTWoCm0ZE/edit?usp=sharing)
 
