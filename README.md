@@ -1,6 +1,17 @@
 <h1>Hi, I'm Jackson! <br/><a href="https://github.com/610jackson">IT Analyst</a></h1>
 
 
+<h2>👨‍💻 Networking Projects:</h2>
+
+- <b>Configuring VLANs </b>
+  - [Configuring VLANs Video](https://drive.google.com/file/d/18AN507KfKvDnDFS2K1ECprP9sTJGkO48/view?usp=sharing)
+
+- <b>Basic Device Security </b>
+  - [Basic Device Security Lab from Jeremy's IT Lab](https://github.com/610jackson/Basic-Device-Security/blob/main/README.md)
+    
+- <b>DNS Lab </b>
+  - [DNS Lab from Jeremy's IT Lab](https://docs.google.com/document/d/1nFoOV7xGBsgR2h2ZW7jJfiEHOeeFaFyNCLXqNHxw5YQ/edit?usp=sharing)
+
 <h2>👨‍💻 Azure Projects:</h2>
 
 - <b>Private Endpoint Lab</b>
@@ -36,13 +47,7 @@
   
 
 
-<h2>👨‍💻 Networking Projects:</h2>
 
-- <b>Basic Device Security </b>
-  - [Basic Device Security Lab from Jeremy's IT Lab](https://github.com/610jackson/Basic-Device-Security/blob/main/README.md)
-    
-- <b>DNS Lab </b>
-  - [DNS Lab from Jeremy's IT Lab](https://docs.google.com/document/d/1nFoOV7xGBsgR2h2ZW7jJfiEHOeeFaFyNCLXqNHxw5YQ/edit?usp=sharing)
 
 <h2>👨‍💻 Linux Projects:</h2>
 
