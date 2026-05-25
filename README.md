@@ -3,8 +3,11 @@
 
 <h2>👨‍💻 Networking Projects:</h2>
 
+- <b>Trunk Ports and Router on a Stick Practice </b>
+  - [Trunk Ports and Router on a Stick Practice (Video)](https://drive.google.com/file/d/19Hjq9cecVcGvKJTvO6JYDR24hWb8MvW_/view?usp=sharing)
+    
 - <b>Configuring VLANs </b>
-  - [Configuring VLANs Video](https://drive.google.com/file/d/18AN507KfKvDnDFS2K1ECprP9sTJGkO48/view?usp=sharing)
+  - [Configuring VLANs (Video)](https://drive.google.com/file/d/18AN507KfKvDnDFS2K1ECprP9sTJGkO48/view?usp=sharing)
 
 - <b>Basic Device Security </b>
   - [Basic Device Security Lab from Jeremy's IT Lab](https://github.com/610jackson/Basic-Device-Security/blob/main/README.md)
